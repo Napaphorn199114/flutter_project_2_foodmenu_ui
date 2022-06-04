@@ -1,6 +1,7 @@
 # project_2_foodmenu
 
-#Picture file name Example Screenshot_Project
+Picture file name Example Screenshot_Project
+
 
 ## Getting Started
 
