@@ -1,7 +1,6 @@
 # project_2_foodmenu
 
-A new Flutter project.
-
+Picture file name Example Screenshot_Project
 ## Getting Started
 
 This project is a starting point for a Flutter application.
